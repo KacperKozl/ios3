@@ -1,0 +1,27 @@
+{
+  "configurations" : [
+    {
+      "id" : "3FE76FD4-40BF-4F57-8562-AEC70BED0797",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "locationScenario" : {
+      "identifier" : "San Francisco, CA, USA",
+      "referenceType" : "built-in"
+    },
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:ios3.xcodeproj",
+      "identifier" : "3FA3911E2B59486500C2CFB0",
+      "name" : "ios3"
+    }
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}
